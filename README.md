@@ -1,5 +1,5 @@
 <h1> Olá, sou o Fabricio costa </h1>
-<h2> Sou apaixonado em tecnologias des de pequeno, sempre me perguntei como era feito um site, um jogo um app de celular.
+<h2> Sou apaixonado em tecnologias dês de pequeno, sempre me perguntei como era feito um site, um jogo um app de celular.
   Hoje em dia estudo e busco aprender mais sobre a área da programação para conseguir concluir minhas metas e trabalhar na área. </h2>
 <p> Estou iniciando no ano de 2023 meu conhecimento na área da programação, buscando conhecimento na devclub com o curso Full stack.</p>
 <br>
